@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 Welcome to my GitHub Profile!
+- 🌱 I’m currently learning JavaScript and Python.
+- - 📫 How to reach me: cmomie1@gmail.com
 
 
 
